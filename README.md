@@ -87,11 +87,21 @@ Texas is home to X state parks and 2 national parks.
 
 
 ## Southeastern Parks
-| Park Name   |     Photo   |  Visited? |
-|----------|:-------------:|------:|
-| col 1 is |   |  |
-| col 2 is |   |  |
-| col 3 is |   |  |
+| Park Name   |     Photo   | Unique Sights |
+|:----------|:-------------|:------|
+| 🔜  **[Brazos Bend](https://en.wikipedia.org/wiki/Brazos_Bend_State_Park)** | <img src="https://texasstateparks.reserveamerica.com/webphotos/TX/pid1200072/0/540x360.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Fort Boggy](https://en.wikipedia.org/wiki/Fort_Boggy_State_Park)** | <img src="https://i.ytimg.com/vi/yrI3TnmHklg/maxresdefault.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Galveston Island](https://en.wikipedia.org/wiki/Galveston_Island_State_Park)** | <img src="https://greatruns.com/wp-content/uploads/2019/02/texas-galveston-island-state-park-lakeshore.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Huntsville State Park](https://en.wikipedia.org/wiki/Huntsville_State_Park)** | <img src="https://i.pinimg.com/originals/6e/43/40/6e4340f79c32c81d6ea988ac2e7180cc.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Lake Livingston](https://en.wikipedia.org/wiki/Lake_Livingston_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/lake-livingston/gallery/LK-Livingston_3035.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Martin Dies Jr.](https://en.wikipedia.org/wiki/Martin_Dies_Jr._State_Park)** | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Martin-Dies-Jr-State-Park.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Sea Rim](https://en.wikipedia.org/wiki/Sea_Rim_State_Park)** | <img src="https://texasbob.com/texasparks/images/tp_searim-4.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Sheldon Lake](https://en.wikipedia.org/wiki/Sheldon_Lake_State_Park_and_Environmental_Learning_Center)** | <img src="https://tpwd.texas.gov/state-parks/sheldon-lake/gallery/cypress-trees-tower-view-from-lake.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Somerville Lake](https://en.wikipedia.org/wiki/Somerville_Lake)** | <img src="https://www.travelinglifestyle.net/wp-content/uploads/2020/05/Lake-Somerville-State-Park-Trailway.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Stephen F. Austin](https://en.wikipedia.org/wiki/Stephen_F._Austin_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/stephen-f-austin/gallery/sfa-shelters_0798.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[USS Texas BB-35](https://en.wikipedia.org/wiki/USS_Texas_(BB-35))** | <img src="https://en.wikipedia.org/wiki/USS_Texas_(BB-35)#/media/File:USS_Texas-2.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Village Creek](https://en.wikipedia.org/wiki/Village_Creek_State_Park_(Texas))** | <img src="https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_396,q_75,w_704/https://assets.simpleviewinc.com/simpleview/image/upload/crm/beaumont/VillageCreekBank_433976d9-5056-b365-ab7fa37b109d92c1.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+
 
 
 ## Southern Parks
