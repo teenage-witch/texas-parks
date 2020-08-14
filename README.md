@@ -2,6 +2,20 @@
 Texas is home to X state parks and 2 national parks.
 [Top 10 Bucket List](#bucket-list) | [Visited](#visited) | [Panhandle Parks](#panhandle-parks) | [Northeastern Parks](#northeastern-parks) | [Western Parks](#western-parks) | [Central Parks](#central-parks) |
 
+## Bucket List
+| Park Name   |     Photo   | Unique Sights |
+|:----------|:-------------|:------|
+| 🔜  **[Monahans Sandhills](https://en.wikipedia.org/wiki/Monahans_Sandhills_State_Park)** | <img src="https://cdn.shopify.com/s/files/1/0301/8521/files/monahans-16_2048x2048.jpg" width="250"> | Dark Sky?? | 
+
+
+## Visited
+| Park Name   |     Photo   | Unique Sights |
+|:----------|:-------------|:------|
+| ✅  **[Caprock Canyon](https://en.wikipedia.org/wiki/Caprock_Canyons_State_Park_and_Trailway)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Caprock_Canyons_Haynes_Ridge_2005.JPG/1600px-Caprock_Canyons_Haynes_Ridge_2005.JPG" width="250"> | Wild Buffalo & Prairie Dogs | 
+| ✅  **[Palo Duro Canyon](https://en.wikipedia.org/wiki/Palo_Duro_Canyon)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Palo_Duro_lighthouse.jpg/1600px-Palo_Duro_lighthouse.jpg" width="250"> | Lighthouse Trail |
+| ✅  **[Blanco State Park](https://en.wikipedia.org/wiki/Blanco_State_Park)** | <img src="https://media.roverpass.com/pictures/images/000/035/818/full/tx89-1.png?1492085288" width="250"> | Dark Sky?? | 
+| ✅  **[McKinney Falls](https://en.wikipedia.org/wiki/McKinney_Falls_State_Park)** | <img src="https://www.nps.gov/common/uploads/cropped_image/primary/02F7DF00-A02D-ED03-8D59C03D9315E435.jpg" width="250"> | Lighthouse Trail |
+
 
 ## Panhandle Parks
 | Park Name   |     Photo   | Unique Sights |
@@ -80,7 +94,7 @@ Texas is home to X state parks and 2 national parks.
 | 🔜  **[Mother Neff](https://en.wikipedia.org/wiki/Mother_Neff_State_Park)** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-pynviq6vWySmHB8tZLjCDRcH6ubQA7EbfSzW9px5cFfk-0o&s" width="250"> | Wild Buffalo & Prairie Dogs |
 | ✅  **[McKinney Falls](https://en.wikipedia.org/wiki/McKinney_Falls_State_Park)** | <img src="https://www.nps.gov/common/uploads/cropped_image/primary/02F7DF00-A02D-ED03-8D59C03D9315E435.jpg" width="250"> | Lighthouse Trail |
 | 🔜  **[Old Tunnel](https://en.wikipedia.org/wiki/Old_Tunnel_State_Park)** | <img src="https://lh3.googleusercontent.com/proxy/b_V96Trfx66fZFho_9MJOXC_lXMCp66jNQRZZppjjBVNgemUaLBTejW0I6wgeS-1sMIxPKZLJp-YBeKXXzvh1MA1eZKBniBCIJY1ThAESGNu64uVwYC8asBz8O-crXE-joNnEO4cVfjK_wZBhycC9xg" width="250"> | Dark Sky?? | 
-| ✅  **[Palmetto State Park](https://en.wikipedia.org/wiki/Palmetto_State_Park)** | <img src="https://www.trektexas.com/wp-content/uploads/IMG_4309-620x413.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Palmetto State Park](https://en.wikipedia.org/wiki/Palmetto_State_Park)** | <img src="https://www.trektexas.com/wp-content/uploads/IMG_4309-620x413.jpg" width="250"> | Lighthouse Trail |
 | 🔜  **[Pedernales Falls](https://en.wikipedia.org/wiki/Pedernales_Falls_State_Park)** | <img src="https://texashillcountry.com/wp-content/uploads/Pedernales-Falls-State-Park.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
 | 🔜  **[South Llano River](https://en.wikipedia.org/wiki/South_Llano_River_State_Park)** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQr0NT4VGgbmAZfvgOagBzQ3duLWblPvrcraA&usqp=CAU" width="250"> | Lighthouse Trail |
 
