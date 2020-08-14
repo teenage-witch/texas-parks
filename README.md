@@ -106,10 +106,18 @@ Texas is home to X state parks and 2 national parks.
 
 ## Southern Parks
 | Park Name   |     Photo   |  Visited? |
-|----------|:-------------:|------:|
-| col 1 is |   |  |
-| col 2 is |   |  |
-| col 3 is |   |  |
+|:----------|:-------------|:------|
+| 🔜  **[Bentsen-Rio Grande Valley](https://en.wikipedia.org/wiki/Bentsen-Rio_Grande_Valley_State_Park)** | <img src="https://live.staticflickr.com/6123/5978000582_2063853965_b.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Choke Canyon Reservoir](https://en.wikipedia.org/wiki/Choke_Canyon_Reservoir)** | <img src="https://deartexas.com/wp-content/uploads/2013/09/DSCF5366s.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Estero Llano Grande](https://en.wikipedia.org/wiki/Estero_Llano_Grande_State_Park)** | <img src="https://ccfdc9a3a3d3d6aa9fd7-2203ef62a1c2bd07e3a6ae0deba5c5af.ssl.cf1.rackcdn.com/parks2011-1188.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Falcon State Park](https://en.wikipedia.org/wiki/Falcon_International_Reservoir)** | <img src="https://txmn.org/lostpines/files/2019/01/1917.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Goliad Historic Site](https://en.wikipedia.org/wiki/Goliad_State_Park_and_Historic_Site)** | <img src="https://media-cdn.tripadvisor.com/media/photo-s/05/dd/f7/23/goliad-state-park-mission.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Goose Island](https://en.wikipedia.org/wiki/Goose_Island_State_Park)** | <img src="https://i.pinimg.com/originals/81/d6/db/81d6db4e8edb1462ef31c8edce55217a.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Lake Casa Blanca](https://en.wikipedia.org/wiki/Lake_Casa_Blanca_International_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/lake-casa-blanca/gallery/lk_casa_blanca_9250.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Lake Corpus Christi](https://en.wikipedia.org/wiki/Lake_Corpus_Christi_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/lake-corpus-christi/gallery/lccsp_hdr_1089.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Mustand Island](https://en.wikipedia.org/wiki/Mustang_Island_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island-20050019.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Resaca de la Palma](https://en.wikipedia.org/wiki/Resaca_de_la_Palma_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/resaca-de-la-palma/gallery/resaca-de-las-palmas-sp-_g4f6121.jpg" width="250"> | Dark Sky?? | 
+
 
 ## National Parks
 | Park Name   |     Photo   |  Visited? |
