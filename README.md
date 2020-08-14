@@ -61,11 +61,30 @@ Texas is home to X state parks and 2 national parks.
  
 
 ## Central Parks
-| Park Name   |     Photo   |  Visited? |
-|----------|:-------------:|------:|
-| col 1 is |   |  |
-| col 2 is |   |  |
-| col 3 is |   |  |
+| Park Name   |     Photo   | Unique Sights |
+|:----------|:-------------|:------|
+| 🔜  **[Bastrop State Park](https://en.wikipedia.org/wiki/Bastrop_State_Park)** | <img src="https://static.texastribune.org/media/slideshows/bastrop/bastrop-postfire-ss-003.JPG" width="250"> | Dark Sky?? | 
+| ✅  **[Blanco State Park](https://en.wikipedia.org/wiki/Blanco_State_Park)** | <img src="https://media.roverpass.com/pictures/images/000/035/818/full/tx89-1.png?1492085288" width="250"> | Dark Sky?? | 
+| 🔜  **[Buescher State Park](https://en.wikipedia.org/wiki/Buescher_State_Park)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Buescher_state_park_2007.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Colorado Bend](https://en.wikipedia.org/wiki/Colorado_Bend_State_Park)** | <img src="https://blog-assets.thedyrt.com/uploads/2018/09/texas-colorado-bend-state-park_1ab0c7d63c0abec92f45a68bc08aaa31-e1538610032544.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Devil's Sinkhole Natural Area](https://en.wikipedia.org/wiki/Devil%27s_Sinkhole_State_Natural_Area)** | <img src="https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzL2FlZDZjNjhmNWE2NjAzYmNjNDY1NDI0Mjc1YmI2Y2Q0MzliOWVjMDAuanBnIl0sWyJwIiwiY29udmVydCIsIiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA4MSAtYXV0by1vcmllbnQiXSxbInAiLCJ0aHVtYiIsIjc4MHg1MjAjIl1d/aed6c68f5a6603bcc465424275bb6cd439b9ec00.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Enchanted Rock](https://en.wikipedia.org/wiki/Enchanted_Rock)** | <img src="https://tpwd.texas.gov/state-parks/enchanted-rock/gallery/erock_7008.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Garner State Park](https://en.wikipedia.org/wiki/Garner_State_Park)** | <img src="https://www.naturerocksaustin.org/sites/default/files/styles/activity_more_img/public/greenspace/garner.jpg?itok=fiuxTJ2W" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Government Canyon Natural Area](https://en.wikipedia.org/wiki/Government_Canyon_State_Natural_Area)** | <img src="https://www.tpwd.state.tx.us/newsmedia/news_images/government_canyon_sna/government_canyon_creek--.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Hill Country Natural Area](https://en.wikipedia.org/wiki/Hill_Country_State_Natural_Area)** | <img src="https://www.backpacker.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcyNzEwNDQ5MjQwOTQyMzgz/0520play_ig_rgreebon_bjk.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Honey Creek Natural Area](https://en.wikipedia.org/wiki/Honey_Creek_State_Natural_Area)** | <img src="https://www.jasonmerlo.com/images/640/41COM00008-Cypress-trees-and-boulders-on-Honey-Creek.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Lockhart State Park](https://en.wikipedia.org/wiki/Lockhart_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/lockhart/images/lockhart01_web.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Longhorn Cavern](https://en.wikipedia.org/wiki/Longhorn_Cavern_State_Park)** | <img src="https://s.hdnux.com/photos/03/56/32/976574/4/920x920.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Lost Maples Natural Area](https://en.wikipedia.org/wiki/Lost_Maples_State_Natural_Area)** | <img src="https://media1.fdncms.com/sacurrent/imager/u/slideshow/9337113/lost_maples.png" width="250"> | Lighthouse Trail |
+| 🔜  **[Lyndon B. Johnson Historic Site](https://en.wikipedia.org/wiki/Lyndon_B._Johnson_State_Park_and_Historic_Site)** | <img src="https://www.101highlandlakes.com/media/cache/articlepage_main/uploads/media/default/0001/15/76073d23dda883484130cb73e4c7bec4b4f43233.jpeg" width="250"> | Lighthouse Trail |
+| 🔜  **[Mother Neff](https://en.wikipedia.org/wiki/Mother_Neff_State_Park)** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-pynviq6vWySmHB8tZLjCDRcH6ubQA7EbfSzW9px5cFfk-0o&s" width="250"> | Wild Buffalo & Prairie Dogs |
+| ✅  **[McKinney Falls](https://en.wikipedia.org/wiki/McKinney_Falls_State_Park)** | <img src="https://www.nps.gov/common/uploads/cropped_image/primary/02F7DF00-A02D-ED03-8D59C03D9315E435.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Old Tunnel](https://en.wikipedia.org/wiki/Old_Tunnel_State_Park)** | <img src="https://lh3.googleusercontent.com/proxy/b_V96Trfx66fZFho_9MJOXC_lXMCp66jNQRZZppjjBVNgemUaLBTejW0I6wgeS-1sMIxPKZLJp-YBeKXXzvh1MA1eZKBniBCIJY1ThAESGNu64uVwYC8asBz8O-crXE-joNnEO4cVfjK_wZBhycC9xg" width="250"> | Dark Sky?? | 
+| ✅  **[Palmetto State Park](https://en.wikipedia.org/wiki/Palmetto_State_Park)** | <img src="https://www.trektexas.com/wp-content/uploads/IMG_4309-620x413.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Pedernales Falls](https://en.wikipedia.org/wiki/Pedernales_Falls_State_Park)** | <img src="https://texashillcountry.com/wp-content/uploads/Pedernales-Falls-State-Park.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[South Llano River](https://en.wikipedia.org/wiki/South_Llano_River_State_Park)** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQr0NT4VGgbmAZfvgOagBzQ3duLWblPvrcraA&usqp=CAU" width="250"> | Lighthouse Trail |
+
+
 
 ## Southeastern Parks
 | Park Name   |     Photo   |  Visited? |
