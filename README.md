@@ -41,8 +41,6 @@
 ## Western Parks
 | Park Name   |     Photo   |  Visited? |
 |:----------|:-------------|:------|
-
-
 | 🔜  **[Abilene State Park](https://en.wikipedia.org/wiki/Abilene_State_Park)** | <img src="https://www.tourtexas.com/content_images/overlook-copper-breaks-state-park.jpg" width="250"> | Dark Sky?? | 
 | 🔜  **[Balmorhea State Park](https://en.wikipedia.org/wiki/Balmorhea_State_Park)** | <img src="https://media-cdn.tripadvisor.com/media/photo-s/08/d5/7e/99/balmorhea-state-park.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
 | 🔜  **[Big Bend Ranch](https://en.wikipedia.org/wiki/Big_Bend_Ranch_State_Park)** | <img src="https://www.ytravelblog.com/wp-content/uploads/2019/02/big-bend-ranch-state-park-texas-21.jpg" width="250"> | Dark Sky?? | 
