@@ -38,14 +38,27 @@
 | 🔜  **[Tyler State Park](https://en.wikipedia.org/wiki/Tyler_State_Park_(Texas))** | <img src="https://tpwd.texas.gov/state-parks/tyler/images/Tyler939_02.jpg/@@images/02ff48f2-7012-4cd5-b17b-13a4d6ff69f0.jpeg" width="250"> | Blackland Prairie | 
 
 
-
-
 ## Western Parks
 | Park Name   |     Photo   |  Visited? |
-|----------|:-------------:|------:|
-| col 1 is |   |  |
-| col 2 is |   |  |
-| col 3 is |   |  |
+|:----------|:-------------|:------|
+
+
+| 🔜  **[Abilene State Park](https://en.wikipedia.org/wiki/Abilene_State_Park)** | <img src="https://www.tourtexas.com/content_images/overlook-copper-breaks-state-park.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Balmorhea State Park](https://en.wikipedia.org/wiki/Balmorhea_State_Park)** | <img src="https://media-cdn.tripadvisor.com/media/photo-s/08/d5/7e/99/balmorhea-state-park.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Big Bend Ranch](https://en.wikipedia.org/wiki/Big_Bend_Ranch_State_Park)** | <img src="https://www.ytravelblog.com/wp-content/uploads/2019/02/big-bend-ranch-state-park-texas-21.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Big Spring](https://en.wikipedia.org/wiki/Big_Spring_State_Park_(Texas))** | <img src="https://marfapublicradio.org/wp-content/uploads/2019/03/BigSpring-1-tpwd-photo-FOR-WEB-copy-500x261.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Davis Mountains](https://en.wikipedia.org/wiki/Davis_Mountains_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/davis-mountains/gallery/dmsp-hiking-0097.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Devils River Natural Area](https://en.wikipedia.org/wiki/Devils_River_State_Natural_Area)** | <img src="https://texashighways.com/wp-content/uploads/2018/03/images_Issues_2018_April_devils-river-10.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Fort Leaton Historic Site](https://en.wikipedia.org/wiki/Fort_Leaton_State_Historic_Site)** | <img src="https://gregdisch.com/wp-content/uploads/2019/05/Fort-Leaton-20190405-IMG_7622-600x300.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Franklin Mountains](https://en.wikipedia.org/wiki/Franklin_Mountains_State_Park)** | <img src="https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,g_xy_center,h_300,q_75,w_400,x_1360,y_911/http://res.cloudinary.com/simpleview/image/upload/v1546887461/clients/texas/PLACES_BigBend_H_ART_Nature_MAIN_39dcb411-aed8-430a-befe-559423b0923c.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Hueco Tanks](https://en.wikipedia.org/wiki/Hueco_Tanks)** | <img src="https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2014/06/19/Travel/Images/IMG_18091403216642.jpg?t=20170517" width="250"> | Dark Sky?? | 
+| 🔜  **[Kickapoo Cavern](https://en.wikipedia.org/wiki/Kickapoo_Cavern_State_Park)** | <img src="https://texashillcountry.com/wp-content/uploads/Bats.png" width="250"> | Dark Sky?? |
+| 🔜  **[Lake Brownwood](https://en.wikipedia.org/wiki/Lake_Brownwood_State_Park)** | <img src="https://lh3.googleusercontent.com/proxy/skXRX3IJQGYbTk7ZTklKBOZi0ZEsJnvWvvjZcjUBz9lNQ-NQWbxczhwZho0D2iLqWBtGoFk1hKEXDvUOdHFjZIrKCgCCV3oKQB4FtdERh-0qXZWuM1ZjeJWP" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Lake Colorado City](https://en.wikipedia.org/wiki/Lake_Colorado_City_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/lake-colorado-city/gallery/lccsp_2090.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Monahans Sandhills](https://en.wikipedia.org/wiki/Monahans_Sandhills_State_Park)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Monahans_Sandhills_at_Sunrise.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[San Angelo](https://en.wikipedia.org/wiki/San_Angelo_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/san-angelo/images/sanangelo939-4_01_1000p.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Seminole Canyon](https://en.wikipedia.org/wiki/Seminole_Canyon_State_Park_and_Historic_Site)** | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Seminole_Canyon_Park2.JPG" width="250"> | Wild Buffalo & Prairie Dogs | 
+ 
 
 ## Central Parks
 | Park Name   |     Photo   |  Visited? |
