@@ -1,6 +1,6 @@
 # Texas State &amp; National Parks Checklist
 Texas is home to X state parks and 2 national parks.
-[Panhandle Parks](#panhandle-parks)
+[Top 10 Bucket List](#bucket-list) | [Visited](#visited) | [Panhandle Parks](#panhandle-parks) | [Northeastern Parks](#northeastern-parks) | [Western Parks](#western-parks) | [Central Parks](#central-parks) |
 
 
 ## Panhandle Parks
