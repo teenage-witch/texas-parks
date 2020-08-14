@@ -1,11 +1,11 @@
-# Texas State &amp; National Parks Checklist
+# 🏜 Texas State &amp; National Parks Checklist
 Texas is home to X state parks and 2 national parks.
 [Top 10 Bucket List](#bucket-list) | [Visited](#visited) | [Panhandle Parks](#panhandle-parks) | [Northeastern Parks](#northeastern-parks) | [Western Parks](#western-parks) | [Central Parks](#central-parks) |
 
 ## Bucket List
 | Park Name   |     Photo   | Unique Sights |
 |:----------|:-------------|:------|
-| 🔜  **[Balmorhea State Park](https://en.wikipedia.org/wiki/Balmorhea_State_Park)** | <img src="https://media-cdn.tripadvisor.com/media/photo-s/08/d5/7e/99/balmorhea-state-park.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Balmorhea State Park](https://en.wikipedia.org/wiki/Balmorhea_State_Park)** | <img src="https://media-cdn.tripadvisor.com/media/photo-s/08/d5/7e/99/balmorhea-state-park.jpg" width="250"> | 🏊 `Largest spring-fed swimming pool`<br>🐇: Animals<br>🌵: notable?? | 
 | 🔜  **[Caddo Lake State Park](https://en.wikipedia.org/wiki/Caddo_Lake_State_Park)** | <img src="https://texashighways.com/wp-content/uploads/2018/03/images_Issues_2018_April_drive-texas-wild-2.jpg" width="250"> | ? |
 | 🔜  **[Colorado Bend](https://en.wikipedia.org/wiki/Colorado_Bend_State_Park)** | <img src="https://blog-assets.thedyrt.com/uploads/2018/09/texas-colorado-bend-state-park_1ab0c7d63c0abec92f45a68bc08aaa31-e1538610032544.jpg" width="250"> | Lighthouse Trail |
 | 🔜  **[Devils River Natural Area](https://en.wikipedia.org/wiki/Devils_River_State_Natural_Area)** | <img src="https://texashighways.com/wp-content/uploads/2018/03/images_Issues_2018_April_devils-river-10.jpg" width="250"> | Lighthouse Trail |
