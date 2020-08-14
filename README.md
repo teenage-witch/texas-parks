@@ -55,7 +55,7 @@ Texas is home to X state parks and 2 national parks.
 | 🔜  **[Kickapoo Cavern](https://en.wikipedia.org/wiki/Kickapoo_Cavern_State_Park)** | <img src="https://texashillcountry.com/wp-content/uploads/Bats.png" width="250"> | Dark Sky?? |
 | 🔜  **[Lake Brownwood](https://en.wikipedia.org/wiki/Lake_Brownwood_State_Park)** | <img src="https://lh3.googleusercontent.com/proxy/skXRX3IJQGYbTk7ZTklKBOZi0ZEsJnvWvvjZcjUBz9lNQ-NQWbxczhwZho0D2iLqWBtGoFk1hKEXDvUOdHFjZIrKCgCCV3oKQB4FtdERh-0qXZWuM1ZjeJWP" width="250"> | Wild Buffalo & Prairie Dogs | 
 | 🔜  **[Lake Colorado City](https://en.wikipedia.org/wiki/Lake_Colorado_City_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/lake-colorado-city/gallery/lccsp_2090.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
-| 🔜  **[Monahans Sandhills](https://en.wikipedia.org/wiki/Monahans_Sandhills_State_Park)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Monahans_Sandhills_at_Sunrise.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Monahans Sandhills](https://en.wikipedia.org/wiki/Monahans_Sandhills_State_Park)** | <img src="https://cdn.shopify.com/s/files/1/0301/8521/files/monahans-16_2048x2048.jpg" width="250"> | Dark Sky?? | 
 | 🔜  **[San Angelo](https://en.wikipedia.org/wiki/San_Angelo_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/san-angelo/images/sanangelo939-4_01_1000p.jpg" width="250"> | Lighthouse Trail |
 | 🔜  **[Seminole Canyon](https://en.wikipedia.org/wiki/Seminole_Canyon_State_Park_and_Historic_Site)** | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Seminole_Canyon_Park2.JPG" width="250"> | Wild Buffalo & Prairie Dogs | 
  
