@@ -5,7 +5,16 @@ Texas is home to X state parks and 2 national parks.
 ## Bucket List
 | Park Name   |     Photo   | Unique Sights |
 |:----------|:-------------|:------|
+| 🔜  **[Balmorhea State Park](https://en.wikipedia.org/wiki/Balmorhea_State_Park)** | <img src="https://media-cdn.tripadvisor.com/media/photo-s/08/d5/7e/99/balmorhea-state-park.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Caddo Lake State Park](https://en.wikipedia.org/wiki/Caddo_Lake_State_Park)** | <img src="https://texashighways.com/wp-content/uploads/2018/03/images_Issues_2018_April_drive-texas-wild-2.jpg" width="250"> | ? |
+| 🔜  **[Colorado Bend](https://en.wikipedia.org/wiki/Colorado_Bend_State_Park)** | <img src="https://blog-assets.thedyrt.com/uploads/2018/09/texas-colorado-bend-state-park_1ab0c7d63c0abec92f45a68bc08aaa31-e1538610032544.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Devil's Sinkhole Natural Area](https://en.wikipedia.org/wiki/Devil%27s_Sinkhole_State_Natural_Area)** | <img src="https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzL2FlZDZjNjhmNWE2NjAzYmNjNDY1NDI0Mjc1YmI2Y2Q0MzliOWVjMDAuanBnIl0sWyJwIiwiY29udmVydCIsIiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA4MSAtYXV0by1vcmllbnQiXSxbInAiLCJ0aHVtYiIsIjc4MHg1MjAjIl1d/aed6c68f5a6603bcc465424275bb6cd439b9ec00.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Dinosaur Valley State Park](https://en.wikipedia.org/wiki/Dinosaur_Valley_State_Park)** | <img src="https://static.rootsrated.com/image/upload/s--UI-gCqtF--/t_rr_large_natural/boalzrvtcbrsxwnu9ma5.jpg" width="250"> | spring wildflowers | 
 | 🔜  **[Monahans Sandhills](https://en.wikipedia.org/wiki/Monahans_Sandhills_State_Park)** | <img src="https://cdn.shopify.com/s/files/1/0301/8521/files/monahans-16_2048x2048.jpg" width="250"> | Dark Sky?? | 
+| 🔜  **[Lost Maples Natural Area](https://en.wikipedia.org/wiki/Lost_Maples_State_Natural_Area)** | <img src="https://media1.fdncms.com/sacurrent/imager/u/slideshow/9337113/lost_maples.png" width="250"> | Lighthouse Trail |
+| 🔜  **[Pedernales Falls](https://en.wikipedia.org/wiki/Pedernales_Falls_State_Park)** | <img src="https://texashillcountry.com/wp-content/uploads/Pedernales-Falls-State-Park.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
+| 🔜  **[Sea Rim](https://en.wikipedia.org/wiki/Sea_Rim_State_Park)** | <img src="https://texasbob.com/texasparks/images/tp_searim-4.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Seminole Canyon](https://en.wikipedia.org/wiki/Seminole_Canyon_State_Park_and_Historic_Site)** | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Seminole_Canyon_Park2.JPG" width="250"> | Wild Buffalo & Prairie Dogs | 
 
 
 ## Visited
@@ -15,6 +24,7 @@ Texas is home to X state parks and 2 national parks.
 | ✅  **[Palo Duro Canyon](https://en.wikipedia.org/wiki/Palo_Duro_Canyon)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Palo_Duro_lighthouse.jpg/1600px-Palo_Duro_lighthouse.jpg" width="250"> | Lighthouse Trail |
 | ✅  **[Blanco State Park](https://en.wikipedia.org/wiki/Blanco_State_Park)** | <img src="https://media.roverpass.com/pictures/images/000/035/818/full/tx89-1.png?1492085288" width="250"> | Dark Sky?? | 
 | ✅  **[McKinney Falls](https://en.wikipedia.org/wiki/McKinney_Falls_State_Park)** | <img src="https://www.nps.gov/common/uploads/cropped_image/primary/02F7DF00-A02D-ED03-8D59C03D9315E435.jpg" width="250"> | Lighthouse Trail |
+
 
 
 ## Panhandle Parks
@@ -129,7 +139,7 @@ Texas is home to X state parks and 2 national parks.
 | 🔜  **[Goose Island](https://en.wikipedia.org/wiki/Goose_Island_State_Park)** | <img src="https://i.pinimg.com/originals/81/d6/db/81d6db4e8edb1462ef31c8edce55217a.jpg" width="250"> | Lighthouse Trail |
 | 🔜  **[Lake Casa Blanca](https://en.wikipedia.org/wiki/Lake_Casa_Blanca_International_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/lake-casa-blanca/gallery/lk_casa_blanca_9250.jpg" width="250"> | Dark Sky?? | 
 | 🔜  **[Lake Corpus Christi](https://en.wikipedia.org/wiki/Lake_Corpus_Christi_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/lake-corpus-christi/gallery/lccsp_hdr_1089.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
-| 🔜  **[Mustand Island](https://en.wikipedia.org/wiki/Mustang_Island_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island-20050019.jpg" width="250"> | Lighthouse Trail |
+| 🔜  **[Mustang Island](https://en.wikipedia.org/wiki/Mustang_Island_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/mustang-island/gallery/mustang-island-20050019.jpg" width="250"> | Lighthouse Trail |
 | 🔜  **[Resaca de la Palma](https://en.wikipedia.org/wiki/Resaca_de_la_Palma_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/resaca-de-la-palma/gallery/resaca-de-las-palmas-sp-_g4f6121.jpg" width="250"> | Dark Sky?? | 
 
 
