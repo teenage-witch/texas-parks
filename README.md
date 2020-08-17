@@ -56,7 +56,7 @@ Texas is home to X state parks and 2 national parks.
 | 🔜  **[Lake Whitney State Park](https://en.wikipedia.org/wiki/Lake_Whitney_State_Park)** | <img src="https://www.usparksonline.com/lake-whitney-limestone-cliffs.jpg" width="250"> | ? |
 | 🔜  **[Martin Creek Lake State Park](https://en.wikipedia.org/wiki/Martin_Creek_Lake_State_Park)** | <img src="https://deartexas.com/wp-content/uploads/2013/09/DSCF5947.jpg" width="250"> | Swimminig |
 | 🔜  **[Meridian State Park](https://en.wikipedia.org/wiki/Meridian_State_Park)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Meridian_state_park_grotto.jpg/1920px-Meridian_state_park_grotto.jpg" width="250"> | ? |
-| 🔜  **[Mission Tejas State Park](https://en.wikipedia.org/wiki/Mission_Tejas_State_Park)** | <img src="https://en.wikipedia.org/wiki/Mission_Tejas_State_Park#/media/File:Mission_tejas_2014.jpg" width="250"> | ? |
+| 🔜  **[Mission Tejas State Park](https://en.wikipedia.org/wiki/Mission_Tejas_State_Park)** | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Mission_tejas_2014.jpg" width="250"> | ? |
 | 🔜  **[Palo Pinto Mountains State Park](https://en.wikipedia.org/wiki/Palo_Pinto_Mountains_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/palo-pinto-mountains/ppmsp-images/palo_pinto-sp-_mg_7364-final_web.jpg" width="250"> | ? |
 | 🔜  **[Possum Kingdom State Park](https://en.wikipedia.org/wiki/Possum_Kingdom_State_Parks)** | <img src="https://i.vimeocdn.com/video/705042179.jpg" width="250"> | ? |
 | 🔜  **[Purtis Creek State Park](https://en.wikipedia.org/wiki/Purtis_Creek_State_Park)** | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Purtis_Creek_State_Park_-_panoramio_%282%29.jpg" width="250"> | Blackland Prairie | 
