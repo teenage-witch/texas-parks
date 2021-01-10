@@ -6,16 +6,16 @@ Texas is home to X state parks and 2 national parks.
 | Park Name   |     Photo   | Notes |
 |:----------|:-------------|:------|
 | 🔜  **[Balmorhea State Park](https://en.wikipedia.org/wiki/Balmorhea_State_Park)**<br>*Reeves County* | <img src="https://media-cdn.tripadvisor.com/media/photo-s/08/d5/7e/99/balmorhea-state-park.jpg" width="250"> | 🚫 `Temporarily Closed`<br>🏊 `Largest spring-fed swimming pool`<br>📰: *[`Hope Springs Eternal at Balmorhea`](https://www.texasmonthly.com/travel/hope-springs-eternal-at-balmorhea/)* | 
-| 🔜  **[Colorado Bend](https://en.wikipedia.org/wiki/Colorado_Bend_State_Park)**<br>*Hill Country* | <img src="https://dtjew9b6f6zyn.cloudfront.net/wp-content/uploads/2019/06/image-1-18.jpg" width="250"> | 🍂 `Best in early spring or late fall`<br>🏊: `Spicewood Springs`<br>🥾: `Gorman Falls, 3 mi round trip`<br>⛰: `Caves`<br>🐶: `Must be leashed`<br>📰: *[`A world of wonders, above ground and below`](https://www.texasmonthly.com/travel/colorado-bend-state-park-wonders-aboveground-below/)*  |
-| 🔜  **[Devils River Natural Area](https://en.wikipedia.org/wiki/Devils_River_State_Natural_Area)**<br>*Val Verde County* | <img src="https://texashighways.com/wp-content/uploads/2018/03/images_Issues_2018_April_devils-river-10.jpg" width="250"> | 🍂 `Best in spring or fall`<br>🛶 `Clear crystal-blue river`<br>🌌: `International dark sky sanctuary`<br>🐶: `Must be leashed`<br>📰: *[`The Temptation of the Devils River`](https://www.texasmonthly.com/travel/temptation-devils-river/)* |
-| 🔜  **[Dinosaur Valley State Park](https://en.wikipedia.org/wiki/Dinosaur_Valley_State_Park)**<br>*Somervell County* | <img src="https://static.rootsrated.com/image/upload/s--UI-gCqtF--/t_rr_large_natural/boalzrvtcbrsxwnu9ma5.jpg" width="250"> | 🌞 `Best in summer`<br>🦖 `Authentic dinosaur tracks`<br>🦌: `Deer, coyotes, bobcats`<br>🌵: `Cross timbers / prairie`<br>🐶: `Must be leashed`<br>📰: *[`Dinosaur Valley hiking guide`](https://www.passporttoeden.com/dinosaur-valley-state-park-hiking-guide/)*  | 
-| 🔜  **[Lost Maples Natural Area](https://en.wikipedia.org/wiki/Lost_Maples_State_Natural_Area)**<br>*Bandera County* | <img src="https://media1.fdncms.com/sacurrent/imager/u/slideshow/9337113/lost_maples.png" width="250"> | 🍂 `Best in late October/early November`<br>✨ `Stargazing spot`<br>🐦: ` Green kingfisher, black-capped vireos`<br>🍁: `Uvalde bigtooth maples`<br>🐶: `Must be leashed`<br>📰: *[`Lost Maples State Park Guide`](http://www.travelheals.com/lost-maples-state-park-texas/)*  |
-| 🔜  **[Pedernales Falls](https://en.wikipedia.org/wiki/Pedernales_Falls_State_Park)**<br>*Blanco County* | <img src="https://texashillcountry.com/wp-content/uploads/Pedernales-Falls-State-Park.jpg" width="250"> | 🗓 `Okay to visit year-round`<br>🦌: `Deer, coyotes, rabbits, armadillos`<br>⛰: `Limestone`<br>🐶: `Must be leashed`| 
-| 🔜  **[Seminole Canyon](https://en.wikipedia.org/wiki/Seminole_Canyon_State_Park_and_Historic_Site)**<br>*Val Verde County* | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Seminole_Canyon_Park2.JPG" width="250"> | ⛄️ `Good winter option`<br>🦌: `Deer, racoons, armadillos`<br>🥾: `Twin Falls Hike, .5 mi`<br>⛰: `Ancient rock art`<br>🐶: `Must be leashed` | 
+| 🔜  **[Colorado Bend](https://en.wikipedia.org/wiki/Colorado_Bend_State_Park)**<br>*Hill Country* | <img src="https://dtjew9b6f6zyn.cloudfront.net/wp-content/uploads/2019/06/image-1-18.jpg" width="250"> | 🍂 `Best in early spring or late fall`<br>🏊 `Spicewood Springs`<br>🥾 `Gorman Falls, 3 mi round trip`<br>⛰: `Caves`<br>🐶 `Must be leashed`<br>📰: *[`A world of wonders, above ground and below`](https://www.texasmonthly.com/travel/colorado-bend-state-park-wonders-aboveground-below/)*  |
+| 🔜  **[Devils River Natural Area](https://en.wikipedia.org/wiki/Devils_River_State_Natural_Area)**<br>*Val Verde County* | <img src="https://texashighways.com/wp-content/uploads/2018/03/images_Issues_2018_April_devils-river-10.jpg" width="250"> | 🍂 `Best in spring or fall`<br>🛶 `Clear crystal-blue river`<br>🌌 `International dark sky sanctuary`<br>🐶 `Must be leashed`<br>📰: *[`The Temptation of the Devils River`](https://www.texasmonthly.com/travel/temptation-devils-river/)* |
+| 🔜  **[Dinosaur Valley State Park](https://en.wikipedia.org/wiki/Dinosaur_Valley_State_Park)**<br>*Somervell County* | <img src="https://static.rootsrated.com/image/upload/s--UI-gCqtF--/t_rr_large_natural/boalzrvtcbrsxwnu9ma5.jpg" width="250"> | 🌞 `Best in summer`<br>🦖 `Authentic dinosaur tracks`<br>🦌 `Deer, coyotes, bobcats`<br>🌵: `Cross timbers / prairie`<br>🐶 `Must be leashed`<br>📰: *[`Dinosaur Valley hiking guide`](https://www.passporttoeden.com/dinosaur-valley-state-park-hiking-guide/)*  | 
+| 🔜  **[Lost Maples Natural Area](https://en.wikipedia.org/wiki/Lost_Maples_State_Natural_Area)**<br>*Bandera County* | <img src="https://media1.fdncms.com/sacurrent/imager/u/slideshow/9337113/lost_maples.png" width="250"> | 🍂 `Best in late October/early November`<br>✨ `Stargazing spot`<br>🐦 ` Green kingfisher, black-capped vireos`<br>🍁 `Uvalde bigtooth maples`<br>🐶 `Must be leashed`<br>📰: *[`Lost Maples State Park Guide`](http://www.travelheals.com/lost-maples-state-park-texas/)*  |
+| 🔜  **[Pedernales Falls](https://en.wikipedia.org/wiki/Pedernales_Falls_State_Park)**<br>*Blanco County* | <img src="https://texashillcountry.com/wp-content/uploads/Pedernales-Falls-State-Park.jpg" width="250"> | 🗓 `Okay to visit year-round`<br>🦌 `Deer, coyotes, rabbits, armadillos`<br>⛰ `Limestone`<br>🐶 `Must be leashed`| 
+| 🔜  **[Seminole Canyon](https://en.wikipedia.org/wiki/Seminole_Canyon_State_Park_and_Historic_Site)**<br>*Val Verde County* | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Seminole_Canyon_Park2.JPG" width="250"> | ⛄️ `Good winter option`<br>🦌 `Deer, racoons, armadillos`<br>🥾 `Twin Falls Hike, .5 mi`<br>⛰ `Ancient rock art`<br>🐶 `Must be leashed` | 
 
 
 ## Visited (Ranked by Most Recommended)
-| Park Name   |     Photo   | Unique Sights |
+| Park Name   |     Photo   | Notes |
 |:----------|:-------------|:------|
 | ✅  **[Palo Duro Canyon](https://en.wikipedia.org/wiki/Palo_Duro_Canyon)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Palo_Duro_lighthouse.jpg/1600px-Palo_Duro_lighthouse.jpg" width="250"> | 🗓 `Okay to visit year-round`<br>🏜 `Desert canyon landscape`<br>🐶: `Must be leashed`<br>🥾 `Famous Lighthouse Trail`<br> 📰: *[`3 Days in Palo Duro State Park`](https://www.adventurestartshere.co/blog/travel-guide-3-days-in-palo-duro)* |
 | ✅  **[Caprock Canyon](https://en.wikipedia.org/wiki/Caprock_Canyons_State_Park_and_Trailway)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Caprock_Canyons_Haynes_Ridge_2005.JPG/1600px-Caprock_Canyons_Haynes_Ridge_2005.JPG" width="250"> |  🗓 `Okay to visit year-round`<br>🏜 `Desert canyon landscape`<br>🐃: `Wild Bison & Prairie Dogs`<br>🐶: `Must be leashed`<br>📰: *[`Texas Monthly: Caprock Canyons`](https://www.texasmonthly.com/articles/caprock-canyons/)*   | 
@@ -30,7 +30,7 @@ Texas is home to X state parks and 2 national parks.
 
 
 ## Panhandle Parks
-| Park Name   |     Photo   | Unique Sights |
+| Park Name   |     Photo   | Notes |
 |:----------|:-------------|:------|
 | ✅  **[Caprock Canyon](https://en.wikipedia.org/wiki/Caprock_Canyons_State_Park_and_Trailway)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Caprock_Canyons_Haynes_Ridge_2005.JPG/1600px-Caprock_Canyons_Haynes_Ridge_2005.JPG" width="250"> | Wild Buffalo & Prairie Dogs | 
 | ✅  **[Palo Duro Canyon](https://en.wikipedia.org/wiki/Palo_Duro_Canyon)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Palo_Duro_lighthouse.jpg/1600px-Palo_Duro_lighthouse.jpg" width="250"> | Lighthouse Trail |
@@ -67,7 +67,7 @@ Texas is home to X state parks and 2 national parks.
 
 
 ## Western Parks
-| Park Name   |     Photo   |  Visited? |
+| Park Name   |     Photo   |  Notes |
 |:----------|:-------------|:------|
 | 🔜  **[Abilene State Park](https://en.wikipedia.org/wiki/Abilene_State_Park)** | <img src="https://www.tourtexas.com/content_images/overlook-copper-breaks-state-park.jpg" width="250"> | Dark Sky?? | 
 | 🔜  **[Balmorhea State Park](https://en.wikipedia.org/wiki/Balmorhea_State_Park)** | <img src="https://media-cdn.tripadvisor.com/media/photo-s/08/d5/7e/99/balmorhea-state-park.jpg" width="250"> | Wild Buffalo & Prairie Dogs | 
@@ -87,7 +87,7 @@ Texas is home to X state parks and 2 national parks.
  
 
 ## Central Parks
-| Park Name   |     Photo   | Unique Sights |
+| Park Name   |     Photo   | Notes |
 |:----------|:-------------|:------|
 | 🔜  **[Bastrop State Park](https://en.wikipedia.org/wiki/Bastrop_State_Park)** | <img src="https://static.texastribune.org/media/slideshows/bastrop/bastrop-postfire-ss-003.JPG" width="250"> | Dark Sky?? | 
 | ✅  **[Blanco State Park](https://en.wikipedia.org/wiki/Blanco_State_Park)** | <img src="https://media.roverpass.com/pictures/images/000/035/818/full/tx89-1.png?1492085288" width="250"> | Dark Sky?? | 
@@ -113,7 +113,7 @@ Texas is home to X state parks and 2 national parks.
 
 
 ## Southeastern Parks
-| Park Name   |     Photo   | Unique Sights |
+| Park Name   |     Photo   | Notes |
 |:----------|:-------------|:------|
 | 🔜  **[Brazos Bend](https://en.wikipedia.org/wiki/Brazos_Bend_State_Park)** | <img src="https://texasstateparks.reserveamerica.com/webphotos/TX/pid1200072/0/540x360.jpg" width="250"> | Dark Sky?? | 
 | 🔜  **[Fort Boggy](https://en.wikipedia.org/wiki/Fort_Boggy_State_Park)** | <img src="https://i.ytimg.com/vi/yrI3TnmHklg/maxresdefault.jpg" width="250"> | Lighthouse Trail |
@@ -131,7 +131,7 @@ Texas is home to X state parks and 2 national parks.
 
 
 ## Southern Parks
-| Park Name   |     Photo   |  Visited? |
+| Park Name   |     Photo   |  Notes |
 |:----------|:-------------|:------|
 | 🔜  **[Bentsen-Rio Grande Valley](https://en.wikipedia.org/wiki/Bentsen-Rio_Grande_Valley_State_Park)** | <img src="https://live.staticflickr.com/6123/5978000582_2063853965_b.jpg" width="250"> | Dark Sky?? | 
 | 🔜  **[Choke Canyon Reservoir](https://en.wikipedia.org/wiki/Choke_Canyon_Reservoir)** | <img src="https://deartexas.com/wp-content/uploads/2013/09/DSCF5366s.jpg" width="250"> | Dark Sky?? | 
