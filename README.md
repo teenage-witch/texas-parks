@@ -4,32 +4,32 @@ Texas is home to 80 state parks and 2 national parks.
 
 ## Bucket List
 | # | Park Name   |     Photo   | Notes |
-|:-----|:----------|:-------------|:------|
+|:-|:----------|:-------------|:------|
 | 1 | 🔜  **[Balmorhea State Park](https://en.wikipedia.org/wiki/Balmorhea_State_Park)**<br>*Reeves County* | <img src="https://media-cdn.tripadvisor.com/media/photo-s/08/d5/7e/99/balmorhea-state-park.jpg" width="250"> | 🚫 `Temporarily Closed`<br>🏊 `Largest spring-fed swimming pool`<br>📰: *[`Hope Springs Eternal at Balmorhea`](https://www.texasmonthly.com/travel/hope-springs-eternal-at-balmorhea/)* | 
-| 🔜  **[Colorado Bend](https://en.wikipedia.org/wiki/Colorado_Bend_State_Park)**<br>*Hill Country* | <img src="https://dtjew9b6f6zyn.cloudfront.net/wp-content/uploads/2019/06/image-1-18.jpg" width="250"> | 🍂 `Best in early spring or late fall`<br>🏊 `Spicewood Springs`<br>🥾 `Gorman Falls, 3 mi round trip`<br>⛰: `Caves`<br>🐶 `Must be leashed`<br>📰: *[`A world of wonders, above ground and below`](https://www.texasmonthly.com/travel/colorado-bend-state-park-wonders-aboveground-below/)*  |
-| 🔜  **[Devils River Natural Area](https://en.wikipedia.org/wiki/Devils_River_State_Natural_Area)**<br>*Val Verde County* | <img src="https://texashighways.com/wp-content/uploads/2018/03/images_Issues_2018_April_devils-river-10.jpg" width="250"> | 🍂 `Best in spring or fall`<br>🛶 `Clear crystal-blue river`<br>🌌 `International dark sky sanctuary`<br>🐶 `Must be leashed`<br>📰: *[`The Temptation of the Devils River`](https://www.texasmonthly.com/travel/temptation-devils-river/)* |
-| 🔜  **[Dinosaur Valley State Park](https://en.wikipedia.org/wiki/Dinosaur_Valley_State_Park)**<br>*Somervell County* | <img src="https://static.rootsrated.com/image/upload/s--UI-gCqtF--/t_rr_large_natural/boalzrvtcbrsxwnu9ma5.jpg" width="250"> | 🌞 `Best in summer`<br>🦖 `Authentic dinosaur tracks`<br>🦌 `Deer, coyotes, bobcats`<br>🌵: `Cross timbers / prairie`<br>🐶 `Must be leashed`<br>📰: *[`Dinosaur Valley hiking guide`](https://www.passporttoeden.com/dinosaur-valley-state-park-hiking-guide/)*  | 
-| 🔜  **[Lost Maples Natural Area](https://en.wikipedia.org/wiki/Lost_Maples_State_Natural_Area)**<br>*Bandera County* | <img src="https://media1.fdncms.com/sacurrent/imager/u/slideshow/9337113/lost_maples.png" width="250"> | 🍂 `Best in late October/early November`<br>✨ `Stargazing spot`<br>🐦 ` Green kingfisher, black-capped vireos`<br>🍁 `Uvalde bigtooth maples`<br>🐶 `Must be leashed`<br>📰: *[`Lost Maples State Park Guide`](http://www.travelheals.com/lost-maples-state-park-texas/)*  |
-| 🔜  **[Pedernales Falls](https://en.wikipedia.org/wiki/Pedernales_Falls_State_Park)**<br>*Blanco County* | <img src="https://texashillcountry.com/wp-content/uploads/Pedernales-Falls-State-Park.jpg" width="250"> | 🗓 `Okay to visit year-round`<br>🦌 `Deer, coyotes, rabbits, armadillos`<br>⛰ `Limestone`<br>🐶 `Must be leashed`| 
-| 🔜  **[Seminole Canyon](https://en.wikipedia.org/wiki/Seminole_Canyon_State_Park_and_Historic_Site)**<br>*Val Verde County* | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Seminole_Canyon_Park2.JPG" width="250"> | ⛄️ `Good winter option`<br>🦌 `Deer, racoons, armadillos`<br>🥾 `Twin Falls Hike, .5 mi`<br>⛰ `Ancient rock art`<br>🐶 `Must be leashed` | 
+| 2 | 🔜  **[Colorado Bend](https://en.wikipedia.org/wiki/Colorado_Bend_State_Park)**<br>*Hill Country* | <img src="https://dtjew9b6f6zyn.cloudfront.net/wp-content/uploads/2019/06/image-1-18.jpg" width="250"> | 🍂 `Best in early spring or late fall`<br>🏊 `Spicewood Springs`<br>🥾 `Gorman Falls, 3 mi round trip`<br>⛰: `Caves`<br>🐶 `Must be leashed`<br>📰: *[`A world of wonders, above ground and below`](https://www.texasmonthly.com/travel/colorado-bend-state-park-wonders-aboveground-below/)*  |
+| 3 | 🔜  **[Devils River Natural Area](https://en.wikipedia.org/wiki/Devils_River_State_Natural_Area)**<br>*Val Verde County* | <img src="https://texashighways.com/wp-content/uploads/2018/03/images_Issues_2018_April_devils-river-10.jpg" width="250"> | 🍂 `Best in spring or fall`<br>🛶 `Clear crystal-blue river`<br>🌌 `International dark sky sanctuary`<br>🐶 `Must be leashed`<br>📰: *[`The Temptation of the Devils River`](https://www.texasmonthly.com/travel/temptation-devils-river/)* |
+| 4 | 🔜  **[Dinosaur Valley State Park](https://en.wikipedia.org/wiki/Dinosaur_Valley_State_Park)**<br>*Somervell County* | <img src="https://static.rootsrated.com/image/upload/s--UI-gCqtF--/t_rr_large_natural/boalzrvtcbrsxwnu9ma5.jpg" width="250"> | 🌞 `Best in summer`<br>🦖 `Authentic dinosaur tracks`<br>🦌 `Deer, coyotes, bobcats`<br>🌵: `Cross timbers / prairie`<br>🐶 `Must be leashed`<br>📰: *[`Dinosaur Valley hiking guide`](https://www.passporttoeden.com/dinosaur-valley-state-park-hiking-guide/)*  | 
+| 5 | 🔜  **[Lost Maples Natural Area](https://en.wikipedia.org/wiki/Lost_Maples_State_Natural_Area)**<br>*Bandera County* | <img src="https://media1.fdncms.com/sacurrent/imager/u/slideshow/9337113/lost_maples.png" width="250"> | 🍂 `Best in late October/early November`<br>✨ `Stargazing spot`<br>🐦 ` Green kingfisher, black-capped vireos`<br>🍁 `Uvalde bigtooth maples`<br>🐶 `Must be leashed`<br>📰: *[`Lost Maples State Park Guide`](http://www.travelheals.com/lost-maples-state-park-texas/)*  |
+| 6 | 🔜  **[Pedernales Falls](https://en.wikipedia.org/wiki/Pedernales_Falls_State_Park)**<br>*Blanco County* | <img src="https://texashillcountry.com/wp-content/uploads/Pedernales-Falls-State-Park.jpg" width="250"> | 🗓 `Okay to visit year-round`<br>🦌 `Deer, coyotes, rabbits, armadillos`<br>⛰ `Limestone`<br>🐶 `Must be leashed`| 
+| 7 | 🔜  **[Seminole Canyon](https://en.wikipedia.org/wiki/Seminole_Canyon_State_Park_and_Historic_Site)**<br>*Val Verde County* | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Seminole_Canyon_Park2.JPG" width="250"> | ⛄️ `Good winter option`<br>🦌 `Deer, racoons, armadillos`<br>🥾 `Twin Falls Hike, .5 mi`<br>⛰ `Ancient rock art`<br>🐶 `Must be leashed` | 
 
 
 ## Visited (Ranked by Most Recommended)
-| Park Name   |     Photo   | Notes |
-|:----------|:-------------|:------|
-| ✅  **[Palo Duro Canyon](https://en.wikipedia.org/wiki/Palo_Duro_Canyon)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Palo_Duro_lighthouse.jpg/1600px-Palo_Duro_lighthouse.jpg" width="250"> | 🗓 `Okay to visit year-round`<br>🏜 `Desert canyon landscape`<br>🐶: `Must be leashed`<br>🥾 `Famous Lighthouse Trail`<br> 📰: *[`3 Days in Palo Duro State Park`](https://www.adventurestartshere.co/blog/travel-guide-3-days-in-palo-duro)* |
-| ✅  **[Caprock Canyon](https://en.wikipedia.org/wiki/Caprock_Canyons_State_Park_and_Trailway)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Caprock_Canyons_Haynes_Ridge_2005.JPG/1600px-Caprock_Canyons_Haynes_Ridge_2005.JPG" width="250"> |  🗓 `Okay to visit year-round`<br>🏜 `Desert canyon landscape`<br>🐃: `Wild Bison & Prairie Dogs`<br>🐶: `Must be leashed`<br>📰: *[`Texas Monthly: Caprock Canyons`](https://www.texasmonthly.com/articles/caprock-canyons/)* | 
-| ✅  **[Caddo Lake State Park](https://en.wikipedia.org/wiki/Caddo_Lake_State_Park)**<br>*Harrison/Marion County*  | <img src="https://texashighways.com/wp-content/uploads/2018/03/images_Issues_2018_April_drive-texas-wild-2.jpg" width="250"> | 🍂 `Best in early spring or late fall`<br>🛶 `Wetland swamp / bayou`<br>🐊: `Alligators, Frogs, Snakes, Turtles`<br>🌵: `Cypress trees, spanish moss`<br>🐶: `Must be leashed`<br>📰: *[`Weekend guide to Caddo Lake`](https://itsnothouitsme.com/2019/11/12/canoeing-caddo-lake/)*  |
-| ✅  **[McKinney Falls](https://en.wikipedia.org/wiki/McKinney_Falls_State_Park)** | <img src="https://www.nps.gov/common/uploads/cropped_image/primary/02F7DF00-A02D-ED03-8D59C03D9315E435.jpg" width="250"> | 🌞 `Best to visit in summer`<br> 🏊 `Two swimming holes`<br> 🦌 `White-tail deer, raccoons, armadillos`|
-| ✅  **[Monahans Sandhills](https://en.wikipedia.org/wiki/Monahans_Sandhills_State_Park)**<br>*Ward/Winkler Country* | <img src="https://cdn.shopify.com/s/files/1/0301/8521/files/monahans-16_2048x2048.jpg" width="250"> | 🍂 `Best in spring, fall, or winter`<br>🛷 `Sand sleding`<br>🦡: `Badgers, kangaroo rats, javelinas`<br>🐶: `Allowed`<br>📰: *[`Monahans Sandhills State Park`](https://whilewewerewandering.com/monahans-sandhills-state-park/)*  | 
-| ✅  **[Blanco State Park](https://en.wikipedia.org/wiki/Blanco_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/blanco/gallery/blanco-sp_5619.jpg?1492085288" width="250"> | 🌞 `Best to visit in summer`<br> 🏊 `Large swimming hole`<br>🥾 `One easy hiking trail` | 
-| ✅  **[Davis Mountains](https://en.wikipedia.org/wiki/Davis_Mountains_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/davis-mountains/gallery/dmsp-hiking-0097.jpg" width="250"> | 🗓 `Okay to visit year-round`<br>🏜 `Mountainous Plains and Desert`<br>🐗 `Javelinas & Blue Birds`<br>🐶: `Must be leashed`<br>🏨 `Stay at Indian Lodge`<br>📰: *[`Texas Monthly: Davis Mountains`](https://www.texasmonthly.com/travel/so-cool/)*  |
-| ✅  **[Daingerfield State Park](https://en.wikipedia.org/wiki/Daingerfield_State_Park)**<br>*Morris County* | <img src="https://tpwd.texas.gov/state-parks/daingerfield/images/daingerfield_sp-img_3282.jpg" width="250"> | 🍂 `Best in early spring or late fall`<br> 🍁 `Popular for autumn leaves`<br> 🥾 `Easy to moderate hikes` <br> 🧺 `Good picnic spot` | 
-| ✅  **[Purtis Creek State Park](https://en.wikipedia.org/wiki/Purtis_Creek_State_Park)** | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Purtis_Creek_State_Park_-_panoramio_%282%29.jpg" width="250"> | 🗓 `Okay to visit year-round`<br>🌲 `Pineywoods and ponds`<br>🦢 `Great blue herons and beavers`<br>🎣 `Popular fishing spot`<br> 🐶: `Must be leashed`| 
-| ✅  **[Cleburne State Park](https://en.wikipedia.org/wiki/Cleburne_State_Park)**<br>*Johnson County* | <img src="https://www.naturerocksnorthtexas.org/sites/default/files/styles/activity_more_img/public/greenspace/cleburne-state-park-00.jpg" width="250"> | 🌤 `Best in late spring or early summer` <br>⛵️ `Spring-fed lake with man-made dam` <br> 🦎 `Lots of little lizards` <br>🎣 `Popular fishing spot`|
+| # | Park Name   |     Photo   | Notes |
+|:-|:----------|:-------------|:------|
+| 1 | ✅  **[Palo Duro Canyon](https://en.wikipedia.org/wiki/Palo_Duro_Canyon)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Palo_Duro_lighthouse.jpg/1600px-Palo_Duro_lighthouse.jpg" width="250"> | 🗓 `Okay to visit year-round`<br>🏜 `Desert canyon landscape`<br>🐶: `Must be leashed`<br>🥾 `Famous Lighthouse Trail`<br> 📰: *[`3 Days in Palo Duro State Park`](https://www.adventurestartshere.co/blog/travel-guide-3-days-in-palo-duro)* |
+| 2 | ✅  **[Caprock Canyon](https://en.wikipedia.org/wiki/Caprock_Canyons_State_Park_and_Trailway)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Caprock_Canyons_Haynes_Ridge_2005.JPG/1600px-Caprock_Canyons_Haynes_Ridge_2005.JPG" width="250"> |  🗓 `Okay to visit year-round`<br>🏜 `Desert canyon landscape`<br>🐃: `Wild Bison & Prairie Dogs`<br>🐶: `Must be leashed`<br>📰: *[`Texas Monthly: Caprock Canyons`](https://www.texasmonthly.com/articles/caprock-canyons/)* | 
+| 3 | ✅  **[Caddo Lake State Park](https://en.wikipedia.org/wiki/Caddo_Lake_State_Park)**<br>*Harrison/Marion County*  | <img src="https://texashighways.com/wp-content/uploads/2018/03/images_Issues_2018_April_drive-texas-wild-2.jpg" width="250"> | 🍂 `Best in early spring or late fall`<br>🛶 `Wetland swamp / bayou`<br>🐊: `Alligators, Frogs, Snakes, Turtles`<br>🌵: `Cypress trees, spanish moss`<br>🐶: `Must be leashed`<br>📰: *[`Weekend guide to Caddo Lake`](https://itsnothouitsme.com/2019/11/12/canoeing-caddo-lake/)*  |
+| 4 | ✅  **[McKinney Falls](https://en.wikipedia.org/wiki/McKinney_Falls_State_Park)** | <img src="https://www.nps.gov/common/uploads/cropped_image/primary/02F7DF00-A02D-ED03-8D59C03D9315E435.jpg" width="250"> | 🌞 `Best to visit in summer`<br> 🏊 `Two swimming holes`<br> 🦌 `White-tail deer, raccoons, armadillos`|
+| 5 | ✅  **[Monahans Sandhills](https://en.wikipedia.org/wiki/Monahans_Sandhills_State_Park)**<br>*Ward/Winkler Country* | <img src="https://cdn.shopify.com/s/files/1/0301/8521/files/monahans-16_2048x2048.jpg" width="250"> | 🍂 `Best in spring, fall, or winter`<br>🛷 `Sand sleding`<br>🦡: `Badgers, kangaroo rats, javelinas`<br>🐶: `Allowed`<br>📰: *[`Monahans Sandhills State Park`](https://whilewewerewandering.com/monahans-sandhills-state-park/)*  | 
+| 6 | ✅  **[Blanco State Park](https://en.wikipedia.org/wiki/Blanco_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/blanco/gallery/blanco-sp_5619.jpg?1492085288" width="250"> | 🌞 `Best to visit in summer`<br> 🏊 `Large swimming hole`<br>🥾 `One easy hiking trail` | 
+| 7 | ✅  **[Davis Mountains](https://en.wikipedia.org/wiki/Davis_Mountains_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/davis-mountains/gallery/dmsp-hiking-0097.jpg" width="250"> | 🗓 `Okay to visit year-round`<br>🏜 `Mountainous Plains and Desert`<br>🐗 `Javelinas & Blue Birds`<br>🐶: `Must be leashed`<br>🏨 `Stay at Indian Lodge`<br>📰: *[`Texas Monthly: Davis Mountains`](https://www.texasmonthly.com/travel/so-cool/)*  |
+| 8 | ✅  **[Daingerfield State Park](https://en.wikipedia.org/wiki/Daingerfield_State_Park)**<br>*Morris County* | <img src="https://tpwd.texas.gov/state-parks/daingerfield/images/daingerfield_sp-img_3282.jpg" width="250"> | 🍂 `Best in early spring or late fall`<br> 🍁 `Popular for autumn leaves`<br> 🥾 `Easy to moderate hikes` <br> 🧺 `Good picnic spot` | 
+| 9 | ✅  **[Purtis Creek State Park](https://en.wikipedia.org/wiki/Purtis_Creek_State_Park)** | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Purtis_Creek_State_Park_-_panoramio_%282%29.jpg" width="250"> | 🗓 `Okay to visit year-round`<br>🌲 `Pineywoods and ponds`<br>🦢 `Great blue herons and beavers`<br>🎣 `Popular fishing spot`<br> 🐶: `Must be leashed`| 
+| 10 | ✅  **[Cleburne State Park](https://en.wikipedia.org/wiki/Cleburne_State_Park)**<br>*Johnson County* | <img src="https://www.naturerocksnorthtexas.org/sites/default/files/styles/activity_more_img/public/greenspace/cleburne-state-park-00.jpg" width="250"> | 🌤 `Best in late spring or early summer` <br>⛵️ `Spring-fed lake with man-made dam` <br> 🦎 `Lots of little lizards` <br>🎣 `Popular fishing spot`|
 
 
-## Panhandle Parks
+## Panhandle Parks (2/3)
 | Park Name   |     Photo   | Notes |
 |:----------|:-------------|:------|
 | ✅  **[Caprock Canyon](https://en.wikipedia.org/wiki/Caprock_Canyons_State_Park_and_Trailway)** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Caprock_Canyons_Haynes_Ridge_2005.JPG/1600px-Caprock_Canyons_Haynes_Ridge_2005.JPG" width="250"> |  🗓 `Okay to visit year-round`<br>🏜 `Desert canyon landscape`<br>🐶: `Must be leashed`<br>🥾 `Famous Lighthouse Trail`<br> 📰: *[`3 Days in Palo Duro State Park`](https://www.adventurestartshere.co/blog/travel-guide-3-days-in-palo-duro)* | 
@@ -38,7 +38,7 @@ Texas is home to 80 state parks and 2 national parks.
 
 
 
-## Northeastern Parks
+## Northeastern Parks (4/24)
 | Park Name   |     Photo   |  Notes |
 |:----------|:-------------|:------|
 | 🔜  **[Atlanta State Park](https://en.wikipedia.org/wiki/Atlanta_State_Park)**<br>*Cass County* | <img src="https://2.bp.blogspot.com/-r9GpmvsdCmg/UCv0l4jzIMI/AAAAAAAAAVo/Gb0mi5-eHIk/s1600/State+Park+3.jpg" width="250"> | 🛶: `Swimming and boating` | 
@@ -66,7 +66,7 @@ Texas is home to 80 state parks and 2 national parks.
 | 🔜  **[Tyler State Park](https://en.wikipedia.org/wiki/Tyler_State_Park_(Texas))** | <img src="https://tpwd.texas.gov/state-parks/tyler/images/Tyler939_02.jpg/@@images/02ff48f2-7012-4cd5-b17b-13a4d6ff69f0.jpeg" width="250"> | Blackland Prairie | 
 
 
-## Western Parks
+## Western Parks (2/15)
 | Park Name   |     Photo   |  Notes |
 |:----------|:-------------|:------|
 | 🔜  **[Abilene State Park](https://en.wikipedia.org/wiki/Abilene_State_Park)** | <img src="https://www.tourtexas.com/content_images/overlook-copper-breaks-state-park.jpg" width="250"> | Dark Sky?? | 
@@ -86,7 +86,7 @@ Texas is home to 80 state parks and 2 national parks.
 | 🔜  **[Seminole Canyon](https://en.wikipedia.org/wiki/Seminole_Canyon_State_Park_and_Historic_Site)** | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Seminole_Canyon_Park2.JPG" width="250"> | Wild Buffalo & Prairie Dogs | 
  
 
-## Central Parks
+## Central Parks (2/20)
 | Park Name   |     Photo   | Notes |
 |:----------|:-------------|:------|
 | 🔜  **[Bastrop State Park](https://en.wikipedia.org/wiki/Bastrop_State_Park)** | <img src="https://static.texastribune.org/media/slideshows/bastrop/bastrop-postfire-ss-003.JPG" width="250"> | Dark Sky?? | 
@@ -112,7 +112,7 @@ Texas is home to 80 state parks and 2 national parks.
 
 
 
-## Southeastern Parks
+## Southeastern Parks (0/12)
 | Park Name   |     Photo   | Notes |
 |:----------|:-------------|:------|
 | 🔜  **[Brazos Bend](https://en.wikipedia.org/wiki/Brazos_Bend_State_Park)** | <img src="https://texasstateparks.reserveamerica.com/webphotos/TX/pid1200072/0/540x360.jpg" width="250"> | Dark Sky?? | 
@@ -130,7 +130,7 @@ Texas is home to 80 state parks and 2 national parks.
 
 
 
-## Southern Parks
+## Southern Parks (0/10)
 | Park Name   |     Photo   |  Notes |
 |:----------|:-------------|:------|
 | 🔜  **[Bentsen-Rio Grande Valley](https://en.wikipedia.org/wiki/Bentsen-Rio_Grande_Valley_State_Park)** | <img src="https://live.staticflickr.com/6123/5978000582_2063853965_b.jpg" width="250"> | Dark Sky?? | 
@@ -145,9 +145,9 @@ Texas is home to 80 state parks and 2 national parks.
 | 🔜  **[Resaca de la Palma](https://en.wikipedia.org/wiki/Resaca_de_la_Palma_State_Park)** | <img src="https://tpwd.texas.gov/state-parks/resaca-de-la-palma/gallery/resaca-de-las-palmas-sp-_g4f6121.jpg" width="250"> | Dark Sky?? | 
 
 
-## National Parks
+## National Parks (1/2)
 | Park Name   |     Photo   |  Visited? |
 |----------|:-------------:|------:|
-| col 1 is |   |  |
-| col 2 is |   |  |
-| col 3 is |   |  |
+| ✅  **[Big Bend National Park](https://www.nps.gov/bibe/index.htm)** |   |  |
+| 🔜  **[Guadalupe Mountains National Park](https://www.nps.gov/gumo/index.htm)** |   |  |
+
